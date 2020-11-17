@@ -1,4 +1,0 @@
-genome eschColi_K12
-trackDb eschColi_K12/trackDb.txt
-groups groups.txt
-
