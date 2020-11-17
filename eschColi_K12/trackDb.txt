@@ -1,6 +1,6 @@
-track expo_NAD_1
-longLabel expo_NAD_1
-shortLabel expo_NAD_1
+track expo_NAD_plus1
+longLabel expo_NAD_plus1
+shortLabel expo_NAD_plus1
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -13,9 +13,9 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track expo_nonNAD_1
-longLabel expo_nonNAD_1
-shortLabel expo_nonNAD_1
+track expo_nonNAD_plus1
+longLabel expo_nonNAD_plus1
+shortLabel expo_nonNAD_plus1
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -28,9 +28,9 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track expo_NAD_2
-longLabel expo_NAD_2
-shortLabel expo_NAD_2
+track expo_NAD_plus2
+longLabel expo_NAD_plus2
+shortLabel expo_NAD_plus2
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -43,9 +43,9 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track expo_nonNAD_2
-longLabel expo_nonNAD_2
-shortLabel expo_nonNAD_2 
+track expo_nonNAD_plus2
+longLabel expo_nonNAD_plus2
+shortLabel expo_nonNAD_plus2 
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -58,9 +58,9 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track expo_NAD_3
-longLabel expo_NAD_3
-shortLabel expo_NAD_3
+track expo_NAD_plus3
+longLabel expo_NAD_plus3
+shortLabel expo_NAD_plus3
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -73,9 +73,9 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track expo_nonNAD_3
-longLabel expo_nonNAD_3
-shortLabel expo_nonNAD_3
+track expo_nonNAD_plus3
+longLabel expo_nonNAD_plus3
+shortLabel expo_nonNAD_plus3
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -88,9 +88,9 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track station_NAD_1
-longLabel station_NAD_1
-shortLabel station_NAD_1
+track stat_NAD_plus1
+longLabel stat_NAD_plus1
+shortLabel stat_NAD_plus1
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -103,9 +103,9 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track station_nonNAD_1
-longLabel station_nonNAD_1
-shortLabel station_nonNAD_1
+track stat_nonNAD_plus1
+longLabel stat_nonNAD_plus1
+shortLabel stat_nonNAD_plus1
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -118,9 +118,9 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track station_NAD_2
-longLabel station_NAD_2 
-shortLabel station_NAD_2 
+track stat_NAD_plus2
+longLabel stat_NAD_plus2 
+shortLabel stat_NAD_plus2 
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -133,9 +133,9 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track station_nonNAD_2
-longLabel station_nonNAD_2
-shortLabel station_nonNAD_2
+track stat_nonNAD_plus2
+longLabel stat_nonNAD_plus2
+shortLabel stat_nonNAD_plus2
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -148,9 +148,9 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track station_NAD_3
-longLabel station_NAD_3 
-shortLabel station_NAD_3
+track stat_NAD_plus3
+longLabel stat_NAD_plus3 
+shortLabel stat_NAD_plus3
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -163,9 +163,9 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track station_nonNAD_3
-longLabel station_nonNAD_3
-shortLabel station_nonNAD_3
+track stat_nonNAD_plus3
+longLabel stat_nonNAD_plus3
+shortLabel stat_nonNAD_plus3
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -177,4 +177,125 @@ searchIndex name
 url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
+
+track expo_NAD_minus1
+longLabel expo_NAD_minus1
+shortLabel expo_NAD_minus1
+priority 10
+visibility pack
+colorByStrand 150,100,30 230,170,40
+color 150,100,30
+altColor 230,170,40
+bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/exponential_minus1_NAD.bed.bb
+type bigBed 6
+searchIndex name
+url http://www.ncbi.nlm.nih.gov/nuccore/$$
+urlLabel NCBI Nucleotide database
+group map
+
+track expo_nonNAD_minus1
+longLabel expo_nonNAD_minus1
+shortLabel expo_nonNAD_minus1
+priority 10
+visibility pack
+colorByStrand 150,100,30 230,170,40
+color 150,100,30
+altColor 230,170,40
+bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/exponential_minus1_nonNAD.bed.bb
+type bigBed 6
+searchIndex name
+url http://www.ncbi.nlm.nih.gov/nuccore/$$
+urlLabel NCBI Nucleotide database
+group map
+
+track expo_NAD_minus2
+longLabel expo_NAD_minus2
+shortLabel expo_NAD_minus2
+priority 10
+visibility pack
+colorByStrand 150,100,30 230,170,40
+color 150,100,30
+altColor 230,170,40
+bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/exponential_minus2_NAD.bed.bb
+type bigBed 6
+searchIndex name
+url http://www.ncbi.nlm.nih.gov/nuccore/$$
+urlLabel NCBI Nucleotide database
+group map
+
+track expo_nonNAD_minus2
+longLabel expo_nonNAD_minus2
+shortLabel expo_nonNAD_minus2 
+priority 10
+visibility pack
+colorByStrand 150,100,30 230,170,40
+color 150,100,30
+altColor 230,170,40
+bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/exponential_minus2_nonNAD.bed.bb
+type bigBed 6
+searchIndex name
+url http://www.ncbi.nlm.nih.gov/nuccore/$$
+urlLabel NCBI Nucleotide database
+group map
+
+track stat_NAD_minus1
+longLabel stat_NAD_minus1
+shortLabel stat_NAD_minus1
+priority 10
+visibility pack
+colorByStrand 150,100,30 230,170,40
+color 150,100,30
+altColor 230,170,40
+bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/stationary_minus1_NAD.bed.bb
+type bigBed 6
+searchIndex name
+url http://www.ncbi.nlm.nih.gov/nuccore/$$
+urlLabel NCBI Nucleotide database
+group map
+
+track stat_nonNAD_minus1
+longLabel stat_nonNAD_minus1
+shortLabel stat_nonNAD_minus1
+priority 10
+visibility pack
+colorByStrand 150,100,30 230,170,40
+color 150,100,30
+altColor 230,170,40
+bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/stationary_minus1_nonNAD.bed.bb
+type bigBed 6
+searchIndex name
+url http://www.ncbi.nlm.nih.gov/nuccore/$$
+urlLabel NCBI Nucleotide database
+group map
+
+track stat_NAD_minus2
+longLabel stat_NAD_minus2 
+shortLabel stat_NAD_minus2 
+priority 10
+visibility pack
+colorByStrand 150,100,30 230,170,40
+color 150,100,30
+altColor 230,170,40
+bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/stationary_minus2_NAD.bed.bb
+type bigBed 6
+searchIndex name
+url http://www.ncbi.nlm.nih.gov/nuccore/$$
+urlLabel NCBI Nucleotide database
+group map
+
+track stat_nonNAD_minus2
+longLabel stat_nonNAD_minus2
+shortLabel stat_nonNAD_minus2
+priority 10
+visibility pack
+colorByStrand 150,100,30 230,170,40
+color 150,100,30
+altColor 230,170,40
+bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/stationary_minus2_nonNAD.bed.bb
+type bigBed 6
+searchIndex name
+url http://www.ncbi.nlm.nih.gov/nuccore/$$
+urlLabel NCBI Nucleotide database
+group map
+
 
