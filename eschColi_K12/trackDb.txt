@@ -15,7 +15,7 @@ group map
 
 track expo_nonNAD_1
 longLabel exponential_plus1_nonNAD
-shortLabel exponential_plus1_nonNAD
+shortLabel expo_nonNAD_1
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -30,7 +30,7 @@ group map
 
 track expo_NAD_2
 longLabel exponential_plus2_NAD
-shortLabel exponential_plus2_NAD
+shortLabel expo_NAD_2
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -45,7 +45,7 @@ group map
 
 track expo_nonNAD_2
 longLabel exponential_plus2_nonNAD
-shortLabel exponential_plus2_nonNAD 
+shortLabel expo_nonNAD_2 
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -60,7 +60,7 @@ group map
 
 track expo_NAD_3
 longLabel exponential_plus3_NAD
-shortLabel exponential_plus3_NAD
+shortLabel expo_NAD_3
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -75,7 +75,7 @@ group map
 
 track expo_nonNAD_3
 longLabel exponential_plus3_nonNAD
-shortLabel exponential_plus3_nonNAD
+shortLabel expo_nonNAD_3
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -90,7 +90,7 @@ group map
 
 track station_NAD_1
 longLabel stationary_plus1_NAD
-shortLabel stationary_plus1_NAD
+shortLabel station_NAD_1
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -105,7 +105,7 @@ group map
 
 track station_nonNAD_1
 longLabel stationary_plus1_nonNAD
-shortLabel stationary_plus1_nonNAD
+shortLabel station_nonNAD_1
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -120,7 +120,7 @@ group map
 
 track station_NAD_2
 longLabel stationary_plus2_NAD 
-shortLabel stationary_plus2_NAD 
+shortLabel station_NAD_2 
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -135,7 +135,7 @@ group map
 
 track station_nonNAD_2
 longLabel stationary_plus2_nonNAD 
-shortLabel stationary_plus2_nonNAD
+shortLabel station_nonNAD_2
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -150,7 +150,7 @@ group map
 
 track station_NAD_3
 longLabel stationary_plus3_NAD 
-shortLabel stationary_plus3_NAD 
+shortLabel station_NAD_3
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
@@ -165,7 +165,7 @@ group map
 
 track station_nonNAD_3
 longLabel stationary_plus3_nonNAD
-shortLabel stationary_plus3_nonNAD
+shortLabel station_nonNAD_3
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
