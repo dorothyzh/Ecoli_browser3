@@ -1,4 +1,4 @@
-track exponential_plus1_NAD
+track expo_NAD_1
 longLabel exponential_plus1_NAD
 shortLabel exponential_plus1_NAD
 priority 10
@@ -13,7 +13,7 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track exponential_plus1_nonNAD
+track expo_nonNAD_1
 longLabel exponential_plus1_nonNAD
 shortLabel exponential_plus1_nonNAD
 priority 10
@@ -28,7 +28,7 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track exponential_plus2_NAD
+track expo_NAD_2
 longLabel exponential_plus2_NAD
 shortLabel exponential_plus2_NAD
 priority 10
@@ -43,7 +43,7 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track exponential_plus2_nonNAD
+track expo_nonNAD_2
 longLabel exponential_plus2_nonNAD
 shortLabel exponential_plus2_nonNAD 
 priority 10
@@ -58,7 +58,7 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track exponential_plus3_NAD
+track expo_NAD_3
 longLabel exponential_plus3_NAD
 shortLabel exponential_plus3_NAD
 priority 10
@@ -73,7 +73,7 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track exponential_plus3_nonNAD
+track expo_nonNAD_3
 longLabel exponential_plus3_nonNAD
 shortLabel exponential_plus3_nonNAD
 priority 10
@@ -88,7 +88,7 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track stationary_plus1_NAD
+track station_NAD_1
 longLabel stationary_plus1_NAD
 shortLabel stationary_plus1_NAD
 priority 10
@@ -103,7 +103,7 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track stationary_plus1_nonNAD
+track station_nonNAD_1
 longLabel stationary_plus1_nonNAD
 shortLabel stationary_plus1_nonNAD
 priority 10
@@ -118,7 +118,7 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track stationary_plus2_NAD
+track station_NAD_2
 longLabel stationary_plus2_NAD 
 shortLabel stationary_plus2_NAD 
 priority 10
@@ -133,7 +133,7 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track stationary_plus2_nonNAD
+track station_nonNAD_2
 longLabel stationary_plus2_nonNAD 
 shortLabel stationary_plus2_nonNAD
 priority 10
@@ -148,7 +148,7 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track stationary_plus3_NAD
+track station_NAD_3
 longLabel stationary_plus3_NAD 
 shortLabel stationary_plus3_NAD 
 priority 10
@@ -163,7 +163,7 @@ url http://www.ncbi.nlm.nih.gov/nuccore/$$
 urlLabel NCBI Nucleotide database
 group map
 
-track stationary_plus3_nonNAD
+track station_nonNAD_3
 longLabel stationary_plus3_nonNAD
 shortLabel stationary_plus3_nonNAD
 priority 10
