@@ -1,4 +1,4 @@
 genome eschColi_K12
-trackDb eschColi_K12/trackDb.txt
+trackDb https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/trackDb.txt
 groups groups.txt
 
