@@ -1,5 +1,5 @@
 hub ecoli
 shortLabel ecoli
 longLabel ecoli
-genomesFile genomes.txt
+genomesFile genome.txt
 email zhdorothy5@gmail.com
