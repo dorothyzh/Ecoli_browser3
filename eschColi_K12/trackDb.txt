@@ -1,6 +1,6 @@
 track expo_NAD_1
 longLabel exponential_plus1_NAD
-shortLabel exponential_plus1_NAD
+shortLabel expo_NAD_1
 priority 10
 visibility pack
 colorByStrand 150,100,30 230,170,40
