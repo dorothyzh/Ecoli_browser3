@@ -1,5 +1,5 @@
 track expo_NAD_1
-longLabel exponential_plus1_NAD
+longLabel expo_NAD_1
 shortLabel expo_NAD_1
 priority 10
 visibility pack
