@@ -1,5 +1,5 @@
 track expo_NAD_1
-longLabel exponential_plus1_NAD
+longLabel expo_NAD_1
 shortLabel expo_NAD_1
 priority 10
 visibility pack
@@ -14,7 +14,7 @@ urlLabel NCBI Nucleotide database
 group map
 
 track expo_nonNAD_1
-longLabel exponential_plus1_nonNAD
+longLabel expo_nonNAD_1
 shortLabel expo_nonNAD_1
 priority 10
 visibility pack
@@ -29,7 +29,7 @@ urlLabel NCBI Nucleotide database
 group map
 
 track expo_NAD_2
-longLabel exponential_plus2_NAD
+longLabel expo_NAD_2
 shortLabel expo_NAD_2
 priority 10
 visibility pack
@@ -44,7 +44,7 @@ urlLabel NCBI Nucleotide database
 group map
 
 track expo_nonNAD_2
-longLabel exponential_plus2_nonNAD
+longLabel expo_nonNAD_2
 shortLabel expo_nonNAD_2 
 priority 10
 visibility pack
@@ -59,7 +59,7 @@ urlLabel NCBI Nucleotide database
 group map
 
 track expo_NAD_3
-longLabel exponential_plus3_NAD
+longLabel expo_NAD_3
 shortLabel expo_NAD_3
 priority 10
 visibility pack
@@ -74,7 +74,7 @@ urlLabel NCBI Nucleotide database
 group map
 
 track expo_nonNAD_3
-longLabel exponential_plus3_nonNAD
+longLabel expo_nonNAD_3
 shortLabel expo_nonNAD_3
 priority 10
 visibility pack
@@ -89,7 +89,7 @@ urlLabel NCBI Nucleotide database
 group map
 
 track station_NAD_1
-longLabel stationary_plus1_NAD
+longLabel station_NAD_1
 shortLabel station_NAD_1
 priority 10
 visibility pack
@@ -104,7 +104,7 @@ urlLabel NCBI Nucleotide database
 group map
 
 track station_nonNAD_1
-longLabel stationary_plus1_nonNAD
+longLabel station_nonNAD_1
 shortLabel station_nonNAD_1
 priority 10
 visibility pack
@@ -119,7 +119,7 @@ urlLabel NCBI Nucleotide database
 group map
 
 track station_NAD_2
-longLabel stationary_plus2_NAD 
+longLabel station_NAD_2 
 shortLabel station_NAD_2 
 priority 10
 visibility pack
@@ -134,7 +134,7 @@ urlLabel NCBI Nucleotide database
 group map
 
 track station_nonNAD_2
-longLabel stationary_plus2_nonNAD 
+longLabel station_nonNAD_2
 shortLabel station_nonNAD_2
 priority 10
 visibility pack
@@ -149,7 +149,7 @@ urlLabel NCBI Nucleotide database
 group map
 
 track station_NAD_3
-longLabel stationary_plus3_NAD 
+longLabel station_NAD_3 
 shortLabel station_NAD_3
 priority 10
 visibility pack
@@ -164,7 +164,7 @@ urlLabel NCBI Nucleotide database
 group map
 
 track station_nonNAD_3
-longLabel stationary_plus3_nonNAD
+longLabel station_nonNAD_3
 shortLabel station_nonNAD_3
 priority 10
 visibility pack
