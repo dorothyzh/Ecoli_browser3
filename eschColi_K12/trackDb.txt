@@ -186,7 +186,7 @@ visibility pack
 colorByStrand 150,100,30 230,170,40
 color 150,100,30
 altColor 230,170,40
-bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/exponential_minus1_NAD.bed.bb
+bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/exponential_minus2_NAD.bed.bb
 type bigBed 6
 searchIndex name
 url http://www.ncbi.nlm.nih.gov/nuccore/$$
@@ -201,7 +201,7 @@ visibility pack
 colorByStrand 150,100,30 230,170,40
 color 150,100,30
 altColor 230,170,40
-bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/exponential_minus1_nonNAD.bed.bb
+bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/exponential_minus2_nonNAD.bed.bb
 type bigBed 6
 searchIndex name
 url http://www.ncbi.nlm.nih.gov/nuccore/$$
@@ -216,7 +216,7 @@ visibility pack
 colorByStrand 150,100,30 230,170,40
 color 150,100,30
 altColor 230,170,40
-bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/exponential_minus2_NAD.bed.bb
+bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/exponential_minus3_NAD.bed.bb
 type bigBed 6
 searchIndex name
 url http://www.ncbi.nlm.nih.gov/nuccore/$$
@@ -231,7 +231,7 @@ visibility pack
 colorByStrand 150,100,30 230,170,40
 color 150,100,30
 altColor 230,170,40
-bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/exponential_minus2_nonNAD.bed.bb
+bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/exponential_minus3_nonNAD.bed.bb
 type bigBed 6
 searchIndex name
 url http://www.ncbi.nlm.nih.gov/nuccore/$$
@@ -276,7 +276,7 @@ visibility pack
 colorByStrand 150,100,30 230,170,40
 color 150,100,30
 altColor 230,170,40
-bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/stationary_minus2_NAD.bed.bb
+bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/stationary_minus3_NAD.bed.bb
 type bigBed 6
 searchIndex name
 url http://www.ncbi.nlm.nih.gov/nuccore/$$
@@ -291,7 +291,7 @@ visibility pack
 colorByStrand 150,100,30 230,170,40
 color 150,100,30
 altColor 230,170,40
-bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/stationary_minus2_nonNAD.bed.bb
+bigDataUrl https://raw.githubusercontent.com/dorothyzh/Ecoli_browser3/main/eschColi_K12/bbi/stationary_minus3_nonNAD.bed.bb
 type bigBed 6
 searchIndex name
 url http://www.ncbi.nlm.nih.gov/nuccore/$$
