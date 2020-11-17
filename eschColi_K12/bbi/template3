@@ -1,0 +1,5 @@
+type bigBed 6
+searchIndex name
+url http://www.ncbi.nlm.nih.gov/nuccore/$$
+urlLabel NCBI Nucleotide database
+group map
